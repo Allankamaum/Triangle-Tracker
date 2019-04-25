@@ -1,0 +1,19 @@
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://stmed.net/sites/default/files/styles/1920x1080/public/triangle-wallpapers-25326-1648896.jpg?itok=gO8XPuFW");
+   background-repeat: no-repeat;
+  background-size: cover;
+   /* height: 10000px;
+  width: 10000px;
+   background-color: skyblue;  */
+}
+
+p {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
