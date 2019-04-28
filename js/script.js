@@ -24,5 +24,21 @@ function answer() {
   ) {
     alert = "an isosceles Traingle.";
   }
+  //Second condition for an isosceles traingle
+  // else if (
+  //   L1 === L2 ||
+  //   L2 === L3 ||
+  //   L3 !== L1
+  // ) {
+  //     alert = "an isosceles Traingle.";
+  // }
+  //vales for an scalene traingle
+  else if (
+    L1 !== L2 &&
+    L1 !== L3 &&
+    L2 !== L3
+  ) {
+    alert = "a scalene Traingle.";
+
   
   }
