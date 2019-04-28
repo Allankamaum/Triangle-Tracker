@@ -21,10 +21,11 @@ p {
 }
 
 button{
+
   margin-left:1300px;
   /* margin-right: inherit; */
   /* float: right; */
-  align: right;
+  /* align: right; */
 }
 header{
   background:
