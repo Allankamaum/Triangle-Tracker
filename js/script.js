@@ -40,5 +40,17 @@ function answer() {
   ) {
     alert = "a scalene Traingle.";
 
-  
+    else if (
+      (L1 + L2 <= L3) ||
+      (L1 + L3 <= L2) ||
+      (L2 + L3 <= L1)
+    ) {
+      text = " Not a Triangle";
+    }
+    else {
+      text = "Error";
+    }
+
+    alert("This are the values you entered:" + " [" + array.join() + "] " + "\nThis is " + text);
+    ")
   }
